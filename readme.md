@@ -2,7 +2,7 @@
 
 Source code of @GrrGirlBot.
 
-Try it on telegra: https://t.me/GrrGirlBot 
+Try it on Telegram: https://t.me/GrrGirlBot 
 
 
 
